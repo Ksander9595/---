@@ -1,0 +1,13 @@
+C:\Users\ivanov-ase\source\repos\Websait beta\draft\bin\Debug\netcoreapp3.1\draft.exe
+C:\Users\ivanov-ase\source\repos\Websait beta\draft\bin\Debug\netcoreapp3.1\draft.deps.json
+C:\Users\ivanov-ase\source\repos\Websait beta\draft\bin\Debug\netcoreapp3.1\draft.runtimeconfig.json
+C:\Users\ivanov-ase\source\repos\Websait beta\draft\bin\Debug\netcoreapp3.1\draft.runtimeconfig.dev.json
+C:\Users\ivanov-ase\source\repos\Websait beta\draft\bin\Debug\netcoreapp3.1\draft.dll
+C:\Users\ivanov-ase\source\repos\Websait beta\draft\bin\Debug\netcoreapp3.1\draft.pdb
+C:\Users\ivanov-ase\source\repos\Websait beta\draft\obj\Debug\netcoreapp3.1\draft.csprojAssemblyReference.cache
+C:\Users\ivanov-ase\source\repos\Websait beta\draft\obj\Debug\netcoreapp3.1\draft.AssemblyInfoInputs.cache
+C:\Users\ivanov-ase\source\repos\Websait beta\draft\obj\Debug\netcoreapp3.1\draft.AssemblyInfo.cs
+C:\Users\ivanov-ase\source\repos\Websait beta\draft\obj\Debug\netcoreapp3.1\draft.csproj.CoreCompileInputs.cache
+C:\Users\ivanov-ase\source\repos\Websait beta\draft\obj\Debug\netcoreapp3.1\draft.dll
+C:\Users\ivanov-ase\source\repos\Websait beta\draft\obj\Debug\netcoreapp3.1\draft.pdb
+C:\Users\ivanov-ase\source\repos\Websait beta\draft\obj\Debug\netcoreapp3.1\draft.genruntimeconfig.cache
